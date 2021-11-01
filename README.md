@@ -1,4 +1,4 @@
-# solar-swin-transformer-output-data
+# Readme
 Repo for storing the output data for the solar swin transformer model that forecasts solar wind speed
 
 
